@@ -1,0 +1,7 @@
+server:
+  port: 8181
+sentry:
+  dsn: http://abe5a066ef7b451082f3cdba42c0d8ec@node20:9000/2
+spring:
+  profiles:
+    active: UAT
